@@ -1,0 +1,507 @@
+    1  ls
+    2  ls -l
+    3  cd repogit
+    4  ls -l
+    5  cd ..
+    6  clear
+    7  ssh-keygen -t ed25519
+    8  ls -l .ssh/
+    9  sudo systemctl status sshd
+   10  clear
+   11  cat .ssh/id_ed25519.pub
+   12  exit
+   13  ssh-keygen -t ed25519
+   14  clear
+   15  ls
+   16  cd vmvagrant_repo
+   17  git clone https://github.com/Mara-109/TP_AYSO_ACOSTA_MARA.gi
+   18  git clone https://github.com/Mara-109/vmvagrant_repo.git
+   19  ls
+   20  cd vmvagrant_repo
+   21  ls
+   22  git status
+   23  history > historial.txt
+   24  ls
+   25  git status
+   26  git add
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "commit clase2"
+   31  git config __global user.email "mara56758@gmail.com"
+   32  git config --global user.email "mara56758@gmail.com"
+   33  git config --global user.name "Mara"
+   34  git commit -m "commit clase2"
+   35  git push
+   36  clear
+   37  ls
+   38  git status
+   39  git push
+   40  clear
+   41  ls
+   42  git status
+   43  git commit -m "commit clase2"
+   44  git push
+   45  vagrant halt
+   46  cd
+   47  vagrant halt
+   48  exit
+   49  ls -l
+   50  vagran halt
+   51  exit
+   52  ls
+   53  ls -l
+   54  cd repogit
+   55  cd ..
+   56  ls
+   57  cd TP_AYSO_ACOSTA_MARA
+   58  cd ..
+   59  cd repogit
+   60  ls
+   61  git clone https://github.com/Mara-109/TP_AYSO_ACOSTA_MARA.git
+   62  cd TP_AYSO_ACOSTA_MARA
+   63  pwd
+   64  cat /etc/os-release
+   65  man grep
+   66  grep HOME_URL /etc/os-release
+   67  grep vagrant@VMPruebas:~/repogit/TP_AYSO_ACOSTA_MARA$ grep HOME_URL /etc/os-releas /etc/os-releas
+   68  grep https://www.github.com /etc/os-release
+   69  cat /etc/os-release
+   70  man grep
+   71  whoami
+   72  echo “Usuario=$(whoami)” > datos_usuario.txt
+   73  ls
+   74  git add .
+   75  git config --global user.email "mara56758@gmail.com"
+   76  git config --global user.name "Tu
+   77  >
+   78  pwd
+   79  clear
+   80  clear
+   81  exit
+   82  ls -l
+   83  cd TP_AYSO_ACOSTA_MARA
+   84  ls
+   85  whoami
+   86  echo “Usuario=$(whoami)” > datos_usuario.txt
+   87  ls
+   88  git add .
+   89  git config --global user.email "mara56758@gmail.com"
+   90  git config --global user.name "Tu
+   91  ><Usuario" 
+   92  git config --global user.name "Mara-109"
+   93  git commit -m "ADD: agregado 1er 
+   94  <ejercicio sobre datos_usuarios.txt" 
+   95  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+   96  git status
+   97  git push
+   98  git push -u origin main
+   99  ls
+  100  git branch -M main
+  101  git remote add origin https://github.com/Mara-109/TP_AYSO_ACOSTA_MARA.git
+  102  git push -u origin main
+  103  clear
+  104  ls
+  105  cd ..
+  106  clear
+  107  ls
+  108  cd repogit
+  109  ls
+  110  cd TP_AYSO_ACOSTA_MARA
+  111  whoami
+  112  echo “Usuario=$(whoami)” > datos_usuario.txt 
+  113  ls
+  114  git add .
+  115  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt" 
+  116  git branch -M main
+  117  git remote add origin https://github.com/Mara-109/TP_AYSO_ACOSTA_MARA.git
+  118  git remote add origin git@github.com:Mara-109/TP_AYSO_ACOSTA_MARA.git
+  119  git status
+  120  git config --global user.email "mara56758@gmail.com"
+  121  git config --global user.name "mara-109"
+  122  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+  123  git push
+  124  git push -u origin VMPruebas
+  125  clear
+  126  git push
+  127  cd ..
+  128  sshkeygen -t ed25519
+  129  clear
+  130  ssh-keygen -t ed25519
+  131  clear
+  132  ls -l .ssh/
+  133  sudo systemctl status sshd
+  134  ls -l
+  135  cd repogit
+  136  ls -l
+  137  UTN_AYSO_ACOSTA_MARA
+  138  cd ..
+  139  cat .ssh/id_ed25519.pub
+  140  cd repogit
+  141  cd TP_AYSO_ACOSTA_MARA
+  142  echo “Usuario=$(whoami)” > datos_usuario.txt 
+  143  ls-l
+  144  ls
+  145  ls -l
+  146  useradd -m -s/bin/bash -c "Alumno Mara" -G Alumno Mara
+  147  sudo cat /etc/shadow
+  148  clear
+  149  groupadd Alumnos
+  150  sudo groupadd Alumnos
+  151  useradd -m -s /bin/bash -c "Alumno mara" -G Alumnos mara
+  152  sudo useradd -m -s /bin/bash -c "Alumno mara" -G Alumnos mara
+  153  grep -i alumno /etc/group
+  154  passwd mara
+  155  sudo passwd mara
+  156  usermod -s /bin/sh [mara]
+  157  usermod -s /bin/sh [usuario]
+  158  usermod –help
+  159  ls
+  160  git add .
+  161  git config --global user.email "mara56758@gmail.com"
+  162  git config --global user.name "mara"
+  163  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+  164  git status
+  165  git push
+  166  git pull
+  167  git push
+  168  git config --global user.email "gonzalez777999000@gmail.com"
+  169  git config --global user.name "Mara-109"
+  170  git status
+  171  git push
+  172  cleart
+  173  clear
+  174  grep
+  175  tail -n1
+  176  head -n1
+  177  grep "model name" /proc/cpuinfo | head -n1 >> 
+  178  datos_usuarios.txt
+  179  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+  180  ls
+  181  clear
+  182  grep
+  183  tail -n1
+  184  head -n1
+  185  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+  186  git commit -m "feat: Añadiendo información de CPU”
+  187  <
+  188  <
+  189  <
+  190  git commit -m "feat: Añadiendo información de CPU"
+  191  git add
+  192  clear
+  193  tail -n1
+  194  head -n1
+  195  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+  196  clear
+  197  cat <<EOF >> README.md
+  198  ls
+  199  cd README.md
+  200  cat README.md
+  201  cat README
+  202  ls -l
+  203  less README.md
+  204  cd repogit
+  205  cd TP_AYSO_ACOSTA_MARA
+  206  clear
+  207  ls -l
+  208  clear
+  209  cat <<EOF>> README.md
+  210  Alumno: Acosta Mara
+  211  División: 211
+  212  Turno: Tarde
+  213  EOF
+  214  git add README.md datos_usuarios.txt
+  215  git commit -m "ADD: Añadiendo Readme y datos de usuario"
+  216  git push
+  217  clear
+  218  less README.md
+  219  mkdir -p {material1,material2}/unit{1..3}
+  220  tree -p
+  221  clear
+  222  less -p
+  223  clear
+  224  tree
+  225  sudo apt install tree
+  226  clear
+  227  tree
+  228  rm datos usuario.txt
+  229  clear
+  230  tree
+  231  rm datos_usuario.txt
+  232  tree
+  233  clear
+  234  tree
+  235  clear
+  236  groupadd Alumnos
+  237  useradd -m -s /bin/bash -c "Alumno mara" -G Alumnos mara
+  238  grep mara /etc/passwd
+  239  grep -i alumno /etc/group
+  240  ls -l /home
+  241  passwd mara
+  242  su - mara
+  243  clear
+  244  echo “Usuario=$(whoami)” > script_dir.sh
+  245  git add
+  246  git add .
+  247  git commit -m "ADD: Añadiendo script"
+  248  git push
+  249  clear
+  250  history -a
+  251  PATHS Relativo…
+  252  clear
+  253  history
+  254  cp ~/.bash_history ./Historial_comandos_Acosta.txt
+  255  git add .
+  256  git commit -m "ADD: Historial de comandos de Acosta"
+  257  git push
+  258  cd ..
+  259  exit
+  260  pico README.md
+  261  ls
+  262  cd repogit
+  263  ls
+  264  cd ..
+  265  cd vmvagrant_repo
+  266  ls
+  267  -rw-rw-r--
+  268  mkdir empresa/sector
+  269  pwd
+  270  mkdir -p  empresa/sector/tarea/empleado
+  271  tree
+  272  cd ..
+  273  exit
+  274  cd repogit
+  275  cd TP_AYSO_ACOSTA_MARA
+  276  ls
+  277  tree
+  278  lees README:md
+  279  clear
+  280  ls -la
+  281  clear
+  282  cat README.md
+  283  ls
+  284  ls -l
+  285  cd ..
+  286  ls
+  287  ls -l
+  288  tree
+  289  clear
+  290  cd ..
+  291  ls -l
+  292  cd vmvagrant_repo
+  293  ls -l
+  294  cat historial.txt
+  295  git status
+  296  clear
+  297  git add.
+  298  git add .
+  299  git push
+  300  cat $HOME/.ssh/*.pub
+  301  cd ..
+  302  exit
+  303  ssl -l
+  304  clear
+  305  sl -l
+  306  clear
+  307  ls
+  308  ls -l
+  309  cd repogit
+  310  ls -l
+  311  rm -rf TP_AYSO_ACOSTA_MARA
+  312  sl -l
+  313  ls -l
+  314  cd ..
+  315  ls -l
+  316  rm -rf TP_AYSO_ACOSTA_MARA
+  317  ls -l
+  318  cd repogit
+  319  ls -l
+  320  git clone git@github.com:Mara-00/TP_AYSO_ACOSTA_MARA.git
+  321  ls -l
+  322  cd TP_AYSO_ACOSTA_MARA
+  323  ls -l
+  324  cd ..
+  325  ssh-keygen -t ed25519
+  326  cat $HOME/.ssh/*.pub
+  327  cd TP_AYSO_ACOSTA_MARA/
+  328  pws
+  329  pwd
+  330  clear
+  331  cat /etc/os-release
+  332  /etc/os-release
+  333  man grep
+  334  grep HOME_URL /etc/os-release
+  335  grep git@github.com:Mara-00/TP_AYSO_ACOSTA_MARA.git /etc/os-releas
+  336  clear
+  337  man grep /etc/os-release
+  338  grep HOME_URL /etc/os-release
+  339  grep -i home_url /etc/os-release
+  340  grep -v Home_url /etc/os-release > datos_url.txt
+  341  ls -l
+  342  cat > datos_usuario.txt
+  343  cat datos_usuario.txt
+  344  git add.
+  345  git add .
+  346  git config --global user.email "gozalez777999000@gmail.com"
+  347  git config --global user.name "Mara-00"
+  348  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+  349  git status
+  350  git push
+  351  ls -l
+  352  cat README.md
+  353  tree
+  354  cd ..
+  355  tree
+  356  cd ..
+  357  tree
+  358  cd repogit
+  359  cd TP_AYSO_ACOSTA_MARA/
+  360  mkdir -p {materia1,materia2}/uni{1..3}
+  361  tree
+  362  cat datos_url.txt
+  363  echo “Usuario=$(whoami)” > script_dir.sh
+  364  ls -l
+  365  chmod --x script_dir.sh
+  366  chmod 001 script_dir.sh
+  367  ls -l
+  368  rm cat script_dir.sh 
+  369  git add .
+  370  git commit -m "ADD: Añadiendo script"
+  371  git status
+  372  git add .
+  373  chmod 665 script_dir.sh
+  374  git add .
+  375  git commit -m "ADD: Añadiendo script"
+  376  git push
+  377  ls -l
+  378  cat datos_url.txt 
+  379  cat /proc/cpuinfo | grep -i proce | awk ‘{print}’
+  380  cat /proc/cpuinfo | grep -i proce | awk ‘{print$2}’
+  381  awk: cmd. line:1: ‘{print}’
+  382  awk: cmd. line:1: ^ invalid char '□' in expression
+  383  cat /proc/cpuinfo | grep -i proce | awk '{print}'
+  384  cat /proc/cpuinfo | grep -i proce | awk '{print$2}'
+  385  cat /proc/cpuinfo | grep -i proce
+  386  cat /proc/cpuinfo | grep -i model
+  387  grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+  388  cat datos_usuario.txt 
+  389  git commit -m "feat: Añadiendo información de CPU"
+  390  cat datos_usuario.txt 
+  391  git status
+  392  git push
+  393  cat datos_usuario.txt 
+  394  git add .
+  395  git config --global user.email "gonzalez777999000@gmail.com"
+  396  git config --global user.name "Mara-00"
+  397  git status
+  398  git push
+  399  cat datos_usuario.txt 
+  400  git status
+  401  git restore --staged <datos_usuario.txt>
+  402  syntax error near unexpected token `newline'
+  403  git restore <datos_usuario.txt>
+  404  cat datos_usuario.txt 
+  405  git status
+  406  git restore --staged <datos_usuario.txt>
+  407  git restore --staged <"datos_usuario.txt">
+  408  git restore --staged <'datos_usuario.txt'>
+  409  git restore --staged <modified: datos_usuario.txt>
+  410  Your branch is up to date with 'origin/main'.
+  411  Changes to be committed:
+  412  git restore --staged datos_usuario.txt
+  413  git status
+  414  git add .
+  415  git status
+  416  git restore
+  417  git restore --staged datos_usuario.txt
+  418  git status
+  419  git add .
+  420  git restore <datos_usuario.txt>
+  421  git restore <<datos_usuario.txt>>
+  422  git status
+  423  git push
+  424  cat datos_usuario.txt 
+  425  git push origin main
+  426  git push origin main --force
+  427  git restore .
+  428  git status
+  429  git push
+  430  git restore --staged .
+  431  git status
+  432  git add .
+  433  git commit "FEAT: Añadiendo información de CPU"
+  434  git commit "feat: Añadiendo información de CPU"
+  435  git commit -m "feat: Añadiendo información de CPU sobre datos_usuarios.txt"
+  436  git status
+  437  cat datos_usuario.txt 
+  438  git push
+  439  history -a
+  440  cp ~/.bash_history ./Historial_comandos_Acosta.txt
+  441  git add .
+  442  git commit -m "ADD: Historial de comandos de Acosta sobre Historial_comandos_Acosta.txt"
+  443  git status
+  444  git push
+  445  ls -l
+  446  rm -rf TP_AYSO_ACOSTA_MARA.pdf
+  447  ls -l
+  448  cd ..
+  449  vagrant halt
+  450  exit
+  451  cd repogit
+  452  cd TP_AYSO_ACOSTA_MARA/
+  453  ls -l
+  454  rm TP_AYSO_ACOSTA_MARA.PDF
+  455  exit
+  456  cd repogit/TP_AYSO_ACOSTA_MARA/
+  457  git status
+  458  clear
+  459  cat script_dir.sh 
+  460  cd .
+  461  cd ..
+  462  clear
+  463  cd repogit/TP_AYSO_ACOSTA_MARA/
+  464  git status
+  465  git restore TP_AYSO_ACOSTA_MARA.pdf
+  466  ls -l
+  467  rm TP_AYSO_ACOSTA_MARA.pdf 
+  468  git status
+  469  git restore TP_AYSO_ACOSTA_MARA.pdf
+  470  ls -l
+  471  clear
+  472  cd ..
+  473  cd..
+  474  cd ..
+  475  clear
+  476  cd repogit/TP_AYSO_ACOSTA_MARA/
+  477  ls -l
+  478  cd ..
+  479  clear
+  480  cd repogit/TP_AYSO_ACOSTA_MARA/
+  481  git status
+  482  clear
+  483  cd ..
+  484  clear
+  485  pwd
+  486  ls -l
+  487  cd repogit/TP_AYSO_ACOSTA_MARA/
+  488  ls -l
+  489  cat README.md 
+  490  ./script_dir.sh
+  491  tree
+  492  exit
+  493  clear
+  494  ls -l
+  495  cd repogit/
+  496  ls -l
+  497  git clone git@github.com:Mara-00/TP2_Acosta_Mara.git
+  498  cd TP2_Acosta_Mara/
+  499  ls -l
+  500  exit
+  501  clear
+  502  cd repogit/TP2_Acosta_Mara/
+  503  sudo pvs > pvs.txt
+  504  sudo vgs > vgs.txt
+  505  sudo lvs > lvs.txt
+  506  sudo history > historial_lvm.txt
+  507  history > historial_lvm.txt
